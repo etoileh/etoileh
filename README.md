@@ -1,19 +1,24 @@
-<div aling= 'center'>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=true&text=Alanis%20Rodrigues&fontSize=50&fontColor=b22798&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=59447a"  />
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300%&section=header&text=Alanis%20Rodrigues&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&stroke=-&descSize=20&descAlign=50&desc=Estudante%20de%20Engenharia%20da%20Computação&descAlignY=51&descAlign=50&color=gradient"  />
 </div>
 
-> 🔭 Hoje estou aprendendo integração de dados segundo a LGPD e Supabase<br>
-> 🌱 Avançando em javascript/typescript e C#<br>
-> 😄 Pronomes: Ela/Dela 
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=etoileh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=etoileh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<br/><br/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
+```
+🔭 Hoje estou aprendendo integração de dados segundo a LGPD e Supabase
+🌱 Avançando em javascript/typescript e C#
+😄 Pronomes: Ela/Dela 
+```
 <div align = 'center'>
-  ### Liguagens
+
+### Codando com...
   <table>
     <td>
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
